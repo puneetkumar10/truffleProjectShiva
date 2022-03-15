@@ -1,0 +1,5 @@
+npm i truffle -g
+truffle init
+npm i -g ganache-cli
+ganache-cli
+truffle migrate
